@@ -12,13 +12,13 @@ https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview </br>
 
 * For this problem fastai library is used which is based on the top of pytorch
 * For this problem several architectures are used</br>
-   Resnet</br>
-   Efficient-net</br>
+   * Resnet</br>
+   * Efficient-net</br>
 * Along with this techniques such as</br>
-    * Data Augmentaion</br>
-   Mixup Augmentation</br>
-   Learning Rate Anealing</br>
-   Label Smoothing </br>
+   * Data Augmentaion</br>
+   * Mixup Augmentation</br>
+   * Learning Rate Anealing</br>
+   * Label Smoothing </br>
 are used for improving the model accuracy</br>
 
 * The Best accuracy scored is 0.95856
