@@ -15,7 +15,7 @@ https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview </br>
    Resnet</br>
    Efficient-net</br>
 * Along with this techniques such as</br>
-   Data Augmentaion</br>
+    * Data Augmentaion</br>
    Mixup Augmentation</br>
    Learning Rate Anealing</br>
    Label Smoothing </br>
