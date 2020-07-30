@@ -9,8 +9,8 @@ Misdiagnosis of the many diseases impacting agricultural crops can lead to misus
 # Approach Used
 
 * For this problem fastai library is used which is based on the top of pytorch
-* For this problem several architectures are used
-   Resnet
-   Efficient-net
+* For this problem several architectures are used</br>
+   Resnet</br>
+   Efficient-net</br>
 
 * The Best accuracy scored is 0.95856
